@@ -1,0 +1,309 @@
+---
+title: "Praktikum Metodologi Penelitian Kesehatan"
+subtitle: "Hipotesis dan Pertanyaan Penelitian"
+author: "Ferdycov Sitanggang M.P.H"
+date: "2026-05-22"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+fontsize: 12pt
+geometry: margin=3cm
+header-includes:  
+  - \usepackage{setspace}
+  # - \onehalfspacing
+  # - \setlength{\parindent}{1.2em}
+  # - \setlength{\parskip}{0.5em}
+  - \usepackage{tcolorbox}
+  # - \usepackage{float}
+  - \newtcolorbox{defbox}{colback=blue!5!white,colframe=blue!75!black,title=Definisi}
+  - \newtcolorbox{examplebox}{colback=green!5!white,colframe=green!60!black,title=Contoh}
+  - \newtcolorbox{notebox}{colback=yellow!5!white,colframe=yellow!60!black,title=Catatan}
+
+---
+
+# Pendahuluan
+
+Dalam penelitian, peneliti harus mampu merumuskan masalah secara jelas agar penelitian memiliki arah yang tepat. Salah satu langkah penting dalam metodologi penelitian adalah menyusun pertanyaan penelitian dan hipotesis.
+
+Pertanyaan penelitian membantu peneliti menentukan fokus penelitian, sedangkan hipotesis digunakan sebagai dugaan sementara yang akan diuji melalui data penelitian.
+
+Pada bidang Rekam Medis dan Informasi Kesehatan, pertanyaan penelitian dan hipotesis dapat digunakan untuk mengevaluasi mutu pelayanan, kelengkapan rekam medis, waktu pengembalian berkas, kepuasan pasien, hingga implementasi sistem informasi kesehatan.
+
+# Dasar Teori
+
+## Pengertian Pertanyaan Penelitian
+
+Pertanyaan penelitian adalah rumusan pertanyaan yang ingin dijawab melalui proses penelitian.
+
+### Ciri-ciri Pertanyaan Penelitian yang Baik
+
+- **Jelas dan spesifik**. Jelas dan spesifik berarti pertanyaan penelitian harus mudah dipahami dan tidak ambigu. Spesifik berarti pertanyaan penelitian harus fokus pada aspek tertentu dari masalah yang ingin diteliti, sehingga dapat memberikan jawaban yang lebih terperinci dan mendalam.
+- **Relevan dengan masalah penelitian**. Relevan berarti pertanyaan penelitian harus berkaitan langsung dengan masalah yang ingin diteliti. Pertanyaan penelitian yang relevan akan membantu peneliti untuk fokus pada aspek-aspek penting dari masalah yang ingin diteliti, sehingga dapat memberikan jawaban yang lebih tepat dan bermanfaat.
+- **Dapat diteliti**. Dapat diteliti berarti pertanyaan penelitian harus **dapat dijawab melalui pengumpulan dan analisis data**. Pertanyaan penelitian yang dapat diteliti akan membantu peneliti untuk merancang metode penelitian yang tepat, sehingga dapat memberikan jawaban yang valid dan reliabel.
+- **Memiliki variabel yang jelas**. Variabel adalah konsep atau karakteristik yang dapat diukur atau diamati dalam penelitian. Pertanyaan penelitian yang memiliki variabel yang jelas akan membantu peneliti untuk merancang metode penelitian yang tepat, sehingga dapat memberikan jawaban yang valid dan reliabel. 
+- **Tidak menimbulkan multitafsir**. Multitafsir berarti pertanyaan penelitian dapat diartikan dengan cara yang berbeda oleh orang yang berbeda. Pertanyaan penelitian **yang tidak menimbulkan multitafsir** akan membantu peneliti untuk memastikan bahwa semua orang memahami pertanyaan penelitian dengan cara yang sama, sehingga dapat memberikan jawaban yang lebih konsisten dan akurat.
+
+### Contoh Pertanyaan Penelitian
+
+1. Apakah terdapat hubungan antara kelengkapan rekam medis dengan kecepatan klaim BPJS?
+2. Bagaimana tingkat kepuasan pasien terhadap pelayanan pendaftaran rawat jalan?
+3. Apakah penggunaan sistem informasi rumah sakit meningkatkan efisiensi pelayanan?
+
+## Pengertian Hipotesis
+
+Hipotesis adalah jawaban sementara terhadap masalah penelitian yang masih harus dibuktikan melalui pengumpulan dan analisis data. Hipotesis merupakan dugaan sementara yang dibuat berdasarkan teori, pengalaman, atau observasi awal. Hipotesis digunakan untuk mengarahkan penelitian dan memberikan fokus pada variabel yang akan diuji.
+
+**Hipotesis umumnya digunakan pada penelitian kuantitatif**.
+
+## Jenis-Jenis Hipotesis
+
+### Hipotesis Nol (H0)
+
+Hipotesis yang menyatakan tidak ada hubungan atau tidak ada pengaruh. Digunakan untuk menguji apakah data yang diperoleh mendukung atau menolak hipotesis nol. Dimana H0 biasanya merupakan pernyataan yang menyatakan tidak ada perbedaan atau tidak ada hubungan antara variabel yang diteliti.
+
+Contoh:
+
+> “Tidak terdapat hubungan antara kelengkapan rekam medis dengan keterlambatan klaim BPJS.”
+
+### Hipotesis Alternatif (H1/Ha)
+
+Hipotesis yang menyatakan adanya hubungan atau pengaruh. Negasi dari hipotesis nol. Dimana Ha biasanya merupakan pernyataan yang menyatakan adanya perbedaan atau adanya hubungan antara variabel yang diteliti.
+
+Contoh:
+
+> “Terdapat hubungan antara kelengkapan rekam medis dengan keterlambatan klaim BPJS.”
+
+## Hipotesis Berdasarkan Arah Pengujian
+
+### Hipotesis Dua Sisi (Two-Tailed)
+
+Hipotesis dua sisi digunakan apabila peneliti hanya ingin mengetahui apakah terdapat perbedaan atau hubungan tanpa menentukan arah.
+
+#### Bentuk Umum
+
+- H0 : μ $=$ μ0
+- Ha : μ $\neq$ μ0
+
+### Contoh
+
+> “Terdapat perbedaan rata-rata waktu pengembalian rekam medis sebelum dan sesudah implementasi SIMRS.”
+
+Pada hipotesis dua sisi, pengujian dilakukan pada kedua sisi distribusi.
+
+### Hipotesis Satu Sisi Kanan (Right-Tailed)
+
+Hipotesis sisi kanan digunakan apabila peneliti menduga nilai parameter lebih besar dibandingkan nilai pembanding.
+
+#### Bentuk Umum
+
+- H0 : μ $≤$ μ0
+- Ha : μ $>$ μ0
+
+### Contoh
+
+> “Produktivitas petugas rekam medis setelah menggunakan SIMRS lebih tinggi dibandingkan sebelum menggunakan SIMRS.”
+
+Daerah penolakan H0 berada pada sisi kanan distribusi.
+
+### Hipotesis Satu Sisi Kiri (Left-Tailed)
+
+Hipotesis sisi kiri digunakan apabila peneliti menduga nilai parameter lebih kecil dibandingkan nilai pembanding.
+
+#### Bentuk Umum
+
+- H0 : μ $≥$ μ0
+- Ha : μ $<$ μ0
+
+### Contoh
+
+> “Waktu pencarian dokumen rekam medis setelah implementasi sistem elektronik lebih rendah dibandingkan sistem manual.”
+
+Daerah penolakan H0 berada pada sisi kiri distribusi.
+
+## Penelitian yang Menggunakan Hipotesis
+
+Umumnya penelitian kuantitatif menggunakan hipotesis karena bertujuan menguji hubungan atau pengaruh antar variabel.
+
+Contoh:
+
+- Hubungan kelengkapan rekam medis dengan lama klaim
+- Pengaruh sistem informasi terhadap efisiensi pelayanan
+- Hubungan beban kerja petugas dengan ketepatan pengkodean diagnosis
+
+## Penelitian yang Tidak Menggunakan Hipotesis
+
+Penelitian deskriptif dan kualitatif biasanya tidak menggunakan hipotesis.
+
+Contoh:
+
+- Gambaran mutu rekam medis di rumah sakit
+- Analisis pengalaman pasien terhadap pelayanan kesehatan
+- Studi fenomenologi penggunaan SIMRS
+
+# Langkah-Langkah Menyusun Pertanyaan Penelitian
+
+## Langkah 1 – Menentukan Masalah Penelitian
+
+Contoh masalah:
+
+> “Masih banyak rekam medis yang tidak lengkap di rumah sakit.”
+
+## Langkah 2 – Menentukan Variabel
+
+| Variabel | Jenis |
+|---|---|
+| Kelengkapan rekam medis | Variabel independen |
+| Kecepatan klaim BPJS | Variabel dependen |
+
+## Langkah 3 – Menyusun Pertanyaan Penelitian
+
+Contoh:
+
+> “Apakah terdapat hubungan antara kelengkapan rekam medis dengan kecepatan klaim BPJS di Rumah Sakit X?”
+
+# Langkah-Langkah Menyusun Hipotesis
+
+## Langkah 1 – Menentukan Variabel Penelitian
+
+Contoh:
+
+- Variabel X = Kelengkapan rekam medis
+- Variabel Y = Kecepatan klaim BPJS
+
+## Langkah 2 – Menentukan Dugaan Sementara
+
+Contoh dugaan:
+
+> “Semakin lengkap rekam medis maka semakin cepat proses klaim BPJS.”
+
+## Langkah 3 – Menuliskan H0 dan Ha
+
+### H0
+
+> “Tidak terdapat hubungan antara kelengkapan rekam medis dengan kecepatan klaim BPJS.”
+
+### Ha
+
+> “Terdapat hubungan antara kelengkapan rekam medis dengan kecepatan klaim BPJS.”
+
+# Contoh Kasus Bidang Rekam Medis
+
+## Kasus 1
+
+Petugas rekam medis sering terlambat mengembalikan berkas rawat inap.
+
+### Pertanyaan Penelitian
+
+> “Apakah beban kerja petugas mempengaruhi keterlambatan pengembalian rekam medis rawat inap?”
+
+### Hipotesis
+
+- H0: Tidak terdapat pengaruh beban kerja terhadap keterlambatan pengembalian rekam medis.
+- Ha: Terdapat pengaruh beban kerja terhadap keterlambatan pengembalian rekam medis.
+
+## Kasus 2
+
+Rumah sakit mulai menerapkan sistem rekam medis elektronik.
+
+### Pertanyaan Penelitian
+
+> “Apakah penerapan rekam medis elektronik meningkatkan efisiensi pelayanan pasien?”
+
+### Hipotesis
+
+- H0: Penerapan rekam medis elektronik tidak meningkatkan efisiensi pelayanan pasien.
+- Ha: Penerapan rekam medis elektronik meningkatkan efisiensi pelayanan pasien.
+
+# Praktik Mahasiswa
+Lihat file `hipotesis_case_study` untuk tugas praktik mahasiswa.
+
+# Diskusi Kelompok
+
+Diskusikan pertanyaan berikut:
+
+1. Mengapa penelitian kualitatif umumnya tidak menggunakan hipotesis?
+2. Apa dampak jika pertanyaan penelitian tidak jelas?
+3. Mengapa hipotesis harus sesuai dengan variabel penelitian?
+4. Bagaimana cara menentukan variabel independen dan dependen?
+
+# Kesalahan Umum dalam Menyusun Hipotesis
+
+| Kesalahan | Penjelasan |
+|---|---|
+| Hipotesis terlalu umum | Tidak spesifik dan sulit diuji |
+| Variabel tidak jelas | Tidak diketahui hubungan yang diuji |
+| Tidak sesuai masalah penelitian | Hipotesis tidak relevan |
+| Mengandung opini | Tidak objektif |
+
+# Tips Menyusun Pertanyaan Penelitian dan Hipotesis
+
+1. Gunakan bahasa yang sederhana dan jelas.
+2. Tentukan variabel penelitian secara spesifik.
+3. Pastikan masalah dapat diteliti.
+4. Hindari pertanyaan yang terlalu luas.
+5. Sesuaikan hipotesis dengan tujuan penelitian.
+
+# Rangkuman
+
+- Pertanyaan penelitian merupakan rumusan masalah yang akan dijawab melalui penelitian.
+- Hipotesis adalah dugaan sementara yang perlu diuji menggunakan data.
+- Penelitian kuantitatif umumnya menggunakan hipotesis.
+- Hipotesis terdiri dari hipotesis nol (H0) dan hipotesis alternatif (Ha).
+- Pertanyaan penelitian dan hipotesis harus sesuai dengan variabel penelitian.
+
+# Evaluasi
+
+1. Apa yang dimaksud dengan hipotesis?
+2. Bagaimana cara membedakan hipotesis nol dan hipotesis alternatif?
+3. Penelitian apa yang biasanya menggunakan hipotesis?
+4. Mana yang merupakan contoh pertanyaan penelitian?
+
+    A. Rumah sakit memiliki pelayanan yang baik  
+    B. Kelengkapan rekam medis sangat penting  
+    C. Apakah terdapat hubungan antara kelengkapan rekam medis dengan kecepatan klaim?  
+    D. Rekam medis elektronik mempermudah pelayanan
+
+<!-- ### 1.
+Hipotesis adalah…
+
+A. Kesimpulan penelitian  
+B. Jawaban sementara terhadap masalah penelitian  
+C. Hasil analisis data  
+D. Ringkasan penelitian
+
+### 2.
+Hipotesis nol dilambangkan dengan…
+
+A. Ha  
+B. H1  
+C. H0  
+D. Hx
+
+### 3.
+Penelitian yang umumnya menggunakan hipotesis adalah…
+
+A. Penelitian kualitatif  
+B. Penelitian deskriptif  
+C. Penelitian kuantitatif  
+D. Studi literatur
+
+### 4.
+Berikut yang merupakan pertanyaan penelitian adalah…
+
+A. Rumah sakit memiliki pelayanan yang baik  
+B. Kelengkapan rekam medis sangat penting  
+C. Apakah terdapat hubungan antara kelengkapan rekam medis dengan kecepatan klaim?  
+D. Rekam medis elektronik mempermudah pelayanan -->
+
+# Referensi
+
+1. Sugiyono. *Metode Penelitian Kuantitatif, Kualitatif, dan R&D*.
+2. Notoatmodjo, S. *Metodologi Penelitian Kesehatan*.
+3. Arikunto, S. *Prosedur Penelitian Suatu Pendekatan Praktik*.
+4. Creswell, J. W. *Research Design*.
+
+# Penutup
+
+Pemahaman mengenai pertanyaan penelitian dan hipotesis merupakan dasar penting dalam penyusunan proposal penelitian. Dengan kemampuan merumuskan masalah, pertanyaan penelitian, dan hipotesis secara tepat, mahasiswa akan lebih mudah menentukan metode penelitian, teknik analisis, serta interpretasi hasil penelitian.

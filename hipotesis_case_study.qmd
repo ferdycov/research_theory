@@ -1,0 +1,81 @@
+---
+title: "Praktikum Metodologi Penelitian Kesehatan"
+subtitle: "Hipotesis dan Pertanyaan Penelitian (Studi Kasus)"
+author: "Ferdycov Sitanggang M.P.H"
+date: "2026-05-22"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+fontsize: 12pt
+geometry: margin=3cm
+header-includes:  
+  - \usepackage{setspace}
+  # - \onehalfspacing
+  # - \setlength{\parindent}{1.2em}
+  # - \setlength{\parskip}{0.5em}
+  - \usepackage{tcolorbox}
+  # - \usepackage{float}
+  - \newtcolorbox{defbox}{colback=blue!5!white,colframe=blue!75!black,title=Definisi}
+  - \newtcolorbox{examplebox}{colback=green!5!white,colframe=green!60!black,title=Contoh}
+  - \newtcolorbox{notebox}{colback=yellow!5!white,colframe=yellow!60!black,title=Catatan}
+
+---
+
+# Praktik Mahasiswa
+
+## Tugas Praktik 1 – Identifikasi Masalah
+
+Buatlah minimal 3 contoh masalah penelitian pada bidang rekam medis dan informasi kesehatan.
+
+| No | Masalah Penelitian |
+|---|--------------------------------------------|
+| 1 |                                            |
+| 2 |                                            |
+| 3 |                                            |
+
+## Tugas Praktik 2 – Menyusun Pertanyaan Penelitian
+
+Berdasarkan masalah yang telah dibuat, susunlah pertanyaan penelitian.
+
+| No | Pertanyaan Penelitian |
+|---|--------------------------------------------|
+| 1 |                                            |
+| 2 |                                            |
+| 3 |                                            |
+
+## Tugas Praktik 3 – Menyusun Hipotesis
+
+Buatlah hipotesis nol (H0) dan hipotesis alternatif (Ha).
+
+| No | H0 | Ha |
+|---|------------------------------|------------------------------|
+| 1 |                              |                              |
+| 2 |                              |                              |
+| 3 |                              |                              |
+
+## Studi Kasus
+Buatlah pertanyaan penelitian dan hipotesis berdasarkan narasi masalah berikut:
+
+### Kasus 1
+Narasi Masalah Penelitian
+
+Perkembangan teknologi informasi di bidang kesehatan mendorong rumah sakit untuk bertransformasi dari sistem rekam medis konvensional menuju sistem Electronic Medical Record (EMR). Implementasi EMR diharapkan mampu meningkatkan efisiensi pelayanan, mempercepat akses informasi pasien, mengurangi kehilangan dokumen, serta meningkatkan kualitas dokumentasi medis.
+
+Namun, dalam praktiknya implementasi EMR di Rumah Sakit X masih menghadapi berbagai kendala. Berdasarkan hasil observasi awal di unit rekam medis dan pelayanan rawat jalan, masih ditemukan petugas dan tenaga kesehatan yang belum optimal dalam menggunakan sistem EMR. Beberapa dokter masih melakukan dokumentasi tidak lengkap, keterlambatan pengisian rekam medis elektronik masih sering terjadi, serta terdapat kendala jaringan yang menyebabkan proses input data menjadi lambat.
+
+Selain itu, petugas rekam medis juga melaporkan adanya ketidaksesuaian data pasien antara unit pendaftaran dan unit pelayanan sehingga mempengaruhi kualitas data rekam medis elektronik. Kondisi tersebut berdampak pada keterlambatan pelayanan pasien, proses klaim BPJS, dan penyajian laporan rumah sakit.
+
+Berdasarkan kondisi tersebut, diperlukan penelitian untuk mengevaluasi implementasi EMR serta mengetahui faktor-faktor yang mempengaruhi keberhasilan penerapan EMR di rumah sakit.
+
+### Kasus 2
+Narasi Masalah Penelitian
+
+Droses klaim BPJS merupakan salah satu aktivitas penting dalam manajemen pembiayaan rumah sakit. Ketepatan dan kelengkapan proses klaim sangat mempengaruhi pendapatan rumah sakit serta keberlangsungan operasional pelayanan kesehatan. Dalam pelaksanaannya, unit rekam medis memiliki peran penting dalam penyediaan dokumen medis yang lengkap dan akurat untuk mendukung proses klaim.
+
+Di Rumah Sakit Y, proses pengajuan klaim BPJS masih menghadapi berbagai permasalahan seperti keterlambatan pengembalian berkas rekam medis, ketidaklengkapan dokumen pendukung klaim, kesalahan pengkodean diagnosis dan tindakan, serta tingginya angka klaim pending. Kondisi tersebut menyebabkan proses verifikasi klaim menjadi lebih lama dan berdampak pada keterlambatan pembayaran klaim dari BPJS Kesehatan.
+
+Selain itu, hasil evaluasi internal rumah sakit menunjukkan bahwa pengelolaan klaim BPJS belum memiliki standar proses yang terintegrasi secara optimal. Sistem monitoring klaim masih dilakukan secara manual dan koordinasi antar unit pelayanan, casemix, dan rekam medis belum berjalan secara maksimal. Hal ini menunjukkan bahwa tingkat maturitas proses klaim BPJS di rumah sakit masih perlu ditingkatkan.
+
+Oleh karena itu, diperlukan penelitian untuk mengukur tingkat maturitas proses klaim BPJS serta mengidentifikasi aspek-aspek yang perlu diperbaiki guna meningkatkan efektivitas pengelolaan klaim di rumah sakit.
