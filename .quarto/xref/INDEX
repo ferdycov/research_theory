@@ -4,5 +4,14 @@
   },
   "hipotesis_case_study.qmd": {
     "hipotesis_case_study.tex": "177b5b88"
+  },
+  "research_design.qmd": {
+    "research_design.tex": "8f3b20f0"
+  },
+  "research_design_case_study.qmd": {
+    "research_design_case_study.tex": "3b06b30a"
+  },
+  "population_sample.qmd": {
+    "population_sample.tex": "6fb50a41"
   }
 }

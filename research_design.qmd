@@ -1,0 +1,192 @@
+---
+title: "Praktikum Metodologi Penelitian Kesehatan"
+subtitle: "Jenis dan Rancangan Penelitian Kesehatan"
+author: "Ferdycov Sitanggang M.P.H"
+date: "2026-05-25"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+fontsize: 12pt
+geometry: margin=3cm
+header-includes:  
+  - \usepackage{setspace}
+  # - \onehalfspacing
+  # - \setlength{\parindent}{1.2em}
+  # - \setlength{\parskip}{0.5em}
+  - \usepackage{tcolorbox}
+  # - \usepackage{float}
+  - \newtcolorbox{defbox}{colback=blue!5!white,colframe=blue!75!black,title=Definisi}
+  - \newtcolorbox{examplebox}{colback=green!5!white,colframe=green!60!black,title=Contoh}
+  - \newtcolorbox{notebox}{colback=yellow!5!white,colframe=yellow!60!black,title=Catatan}
+
+---
+
+# Pendahuluan
+Dalam dunia kesehatan, penelitian merupakan fondasi utama untuk mengembangkan pengetahuan, meningkatkan praktik klinis, dan merumuskan kebijakan kesehatan yang efektif. Metodologi penelitian kesehatan mencakup berbagai jenis dan rancangan penelitian yang digunakan untuk menjawab pertanyaan-pertanyaan penting dalam bidang kesehatan. Memahami jenis dan rancangan penelitian ini sangat penting bagi para peneliti, praktisi kesehatan, dan pembuat kebijakan untuk memastikan bahwa penelitian yang dilakukan valid, reliabel, dan relevan dengan kebutuhan masyarakat.
+
+# Jenis Penelitian Kesehatan
+Jenis penelitian kesehatan dapat dikategorikan berdasarkan tujuan, pendekatan, dan desainnya. Berikut adalah beberapa jenis penelitian kesehatan yang umum digunakan:
+
+## Jenis Penelitian Berdasarkan Tujuan
+1. **Penelitian Deskriptif**: Bertujuan untuk menggambarkan karakteristik suatu populasi atau fenomena kesehatan tanpa mencoba untuk menguji hubungan sebab-akibat. Contoh penelitian deskriptif adalah survei prevalensi penyakit.
+2. **Penelitian Analitik**: Bertujuan untuk menguji hubungan antara variabel dan mengidentifikasi faktor risiko atau penyebab suatu kondisi kesehatan. Contoh penelitian analitik adalah studi kohort dan studi kasus-kontrol.
+3. **Penelitian Eksploratif**: Bertujuan untuk mengeksplorasi suatu fenomena kesehatan yang belum banyak dipahami. Contoh penelitian eksploratif adalah studi kualitatif yang menggunakan wawancara mendalam untuk memahami pengalaman pasien dengan penyakit kronis.
+
+## Jenis Penelitian Berdasarkan Pendekatan
+1. **Penelitian Observasional**: Peneliti mengamati dan mencatat fenomena tanpa melakukan intervensi. Contoh penelitian observasional adalah studi kohort, studi kasus-kontrol, dan studi potong lintang.
+2. **Penelitian Eksperimental**: Peneliti melakukan intervensi untuk menguji hipotesis. Contoh penelitian eksperimental adalah uji klinis acak (randomized controlled trial) dan studi laboratorium.
+
+## Jenis Penelitian Berdasarkan Desain
+1. **Penelitian Longitudinal**: Melibatkan pengamatan terhadap subjek yang sama selama periode waktu tertentu untuk mengamati perubahan atau perkembangan suatu kondisi kesehatan.
+2. **Penelitian Cross-Sectional**: Melibatkan pengumpulan data pada satu titik waktu untuk mengamati hubungan antara variabel. Contoh penelitian cross-sectional adalah survei kesehatan masyarakat yang mengukur prevalensi suatu penyakit pada populasi tertentu.
+3. **Penelitian Case-Control**: Melibatkan perbandingan antara kelompok yang memiliki kondisi kesehatan tertentu (kasus) dengan kelompok yang tidak memiliki kondisi tersebut (kontrol) untuk mengidentifikasi faktor risiko yang mungkin terkait dengan kondisi tersebut.
+
+## Jenis Penelitian Berdasarkan Waktu
+1. **Penelitian Retrospektif**: Melibatkan analisis data yang telah dikumpulkan di masa lalu untuk mengidentifikasi hubungan antara faktor risiko dan hasil kesehatan.
+2. **Penelitian Prospektif**: Melibatkan pengumpulan data secara real-time untuk mengamati perkembangan suatu kondisi kesehatan atau hasil tertentu.
+
+Jenis penelitian kesehatan yang dipilih harus sesuai dengan pertanyaan penelitian, tujuan, dan sumber daya yang tersedia. Dengan memahami berbagai jenis penelitian kesehatan, peneliti dapat memilih pendekatan yang paling tepat untuk menjawab pertanyaan penelitian mereka dan menghasilkan temuan yang valid dan relevan.
+
+Jadi secara umum jenis penelitian kesehatan dapat dikategorikan sebagai berikut:
+
+| Jenis Penelitian Berdasarkan Tujuan | Jenis Penelitian Berdasarkan Pendekatan | Jenis Penelitian Berdasarkan Desain | Jenis Penelitian Berdasarkan Waktu |
+|------------------------------------|---------------------------------------|-----------------------------------|----------------------------------|
+| Penelitian Deskriptif              | Penelitian Observasional              | Penelitian Longitudinal           | Penelitian Retrospektif          |
+| Penelitian Analitik                | Penelitian Eksperimental              | Penelitian Cross-Sectional     | Penelitian Prospektif              |
+| Penelitian Eksploratif             |                                       | Penelitian Case-Control          |                                  |
+
+# Bagaimana dengan KUANTITATIF dan KUALITATIF?
+Selain jenis penelitian berdasarkan tujuan, pendekatan, desain, dan waktu, penelitian kesehatan juga dapat dikategorikan berdasarkan metode yang digunakan, yaitu penelitian kuantitatif dan kualitatif.
+
+1. **Penelitian Kuantitatif**: Menggunakan data numerik untuk menguji hipotesis dan mengukur hubungan antara variabel. Penelitian kuantitatif sering menggunakan survei, eksperimen, atau analisis statistik untuk menghasilkan temuan yang dapat digeneralisasi ke populasi yang lebih luas.
+
+2. **Penelitian Kualitatif**: Menggunakan data non-numerik, seperti wawancara, observasi, atau analisis teks, untuk memahami pengalaman, persepsi, dan makna di balik fenomena kesehatan. Penelitian kualitatif sering digunakan untuk mengeksplorasi topik yang kompleks dan mendalam yang tidak dapat diukur dengan angka.
+
+Dalam praktiknya, banyak penelitian kesehatan yang menggabungkan pendekatan kuantitatif dan kualitatif untuk mendapatkan pemahaman yang lebih komprehensif tentang suatu fenomena kesehatan. Pendekatan ini dikenal sebagai penelitian campuran (mixed methods), yang memungkinkan peneliti untuk memanfaatkan kekuatan kedua metode untuk menghasilkan temuan yang lebih kaya dan bermakna.
+
+## Rancangan Penelitian dengan Pendekatan Kuantitatif
+Rancangan penelitian kuantitatif mencakup berbagai jenis desain yang digunakan untuk menguji hipotesis dan mengukur hubungan antara variabel. Beberapa rancangan penelitian kuantitatif yang umum digunakan dalam penelitian kesehatan meliputi:
+
+1. **Rancangan Deskriptif**: Digunakan untuk menggambarkan karakteristik suatu populasi atau fenomena kesehatan tanpa mencoba untuk menguji hubungan sebab-akibat. 
+Contoh rancangan deskriptif adalah survei prevalensi penyakit.
+
+2. **Rancangan Analitik**: Digunakan untuk menguji hubungan antara variabel dan mengidentifikasi faktor risiko atau penyebab suatu kondisi kesehatan. 
+Contoh rancangan analitik adalah studi kohort dan studi kasus-kontrol.
+
+3. **Rancangan Eksperimental**: Digunakan untuk menguji hipotesis dengan melakukan intervensi. Contoh rancangan eksperimental adalah uji klinis acak (randomized controlled trial) dan studi laboratorium.
+
+## Rancangan Penelitian dengan Pendekatan Kualitatif
+Rancangan penelitian kualitatif mencakup berbagai jenis desain yang digunakan untuk memahami pengalaman, persepsi, dan makna di balik fenomena kesehatan. Beberapa rancangan penelitian kualitatif yang umum digunakan dalam penelitian kesehatan meliputi:
+
+1. **Rancangan Studi Kasus**: Digunakan untuk mengeksplorasi secara mendalam suatu kasus atau fenomena kesehatan tertentu. Contoh rancangan studi kasus adalah penelitian yang mempelajari pengalaman pasien dengan penyakit langka.
+
+2. **Rancangan Etnografi**: Digunakan untuk memahami budaya, perilaku, dan interaksi sosial dalam konteks kesehatan. Contoh rancangan etnografi adalah penelitian yang mempelajari praktik kesehatan tradisional di suatu komunitas.
+
+3. **Rancangan Grounded Theory**: Digunakan untuk mengembangkan teori yang didasarkan pada data yang dikumpulkan secara sistematis. Contoh rancangan grounded theory adalah penelitian yang mengembangkan teori tentang bagaimana pasien mengelola penyakit kronis.
+
+4. **Rancangan Fenomenologi**: Digunakan untuk memahami pengalaman subjektif individu terkait suatu fenomena kesehatan. Contoh rancangan fenomenologi adalah penelitian yang mempelajari pengalaman pasien dengan depresi.
+
+5. **Rancangan Naratif**: Digunakan untuk memahami dan menganalisis cerita atau narasi individu terkait pengalaman kesehatan mereka. Contoh rancangan naratif adalah penelitian yang mempelajari cerita pasien tentang perjalanan mereka melalui diagnosis dan pengobatan kanker.
+
+## Rancangan Penelitian Campuran
+Rancangan penelitian campuran (mixed methods) menggabungkan pendekatan kuantitatif dan kualitatif untuk mendapatkan pemahaman yang lebih komprehensif tentang suatu fenomena kesehatan. Rancangan penelitian campuran dapat dilakukan dengan berbagai cara, seperti:
+
+1. **Rancangan Sequential Explanatory**: Dimulai dengan penelitian kuantitatif diikuti oleh penelitian kualitatif untuk menjelaskan temuan kuantitatif secara lebih mendalam.
+
+2. **Rancangan Sequential Exploratory**: Dimulai dengan penelitian kualitatif diikuti oleh penelitian kuantitatif untuk menguji temuan kualitatif secara lebih luas.
+
+3. **Rancangan Concurrent Triangulation**: Melibatkan pengumpulan data kuantitatif dan kualitatif secara bersamaan untuk membandingkan dan mengonfirmasi temuan dari kedua pendekatan.
+
+# Tabel Rancangan Penelitian Kesehatan
+
+| Rancangan Penelitian Kuantitatif | Rancangan Penelitian Kualitatif | Rancangan Penelitian Campuran |
+|----------------------------------|---------------------------------|------------------------------|
+| Rancangan Deskriptif             | Rancangan Studi Kasus            | Rancangan Sequential Explanatory |
+| Rancangan Analitik               | Rancangan Etnografi             | Rancangan Sequential Exploratory |
+| Rancangan Eksperimental          | Rancangan Grounded Theory        | Rancangan Concurrent Triangulation |
+
+# Tips Memilih Jenis dan Rancangan Penelitian Kesehatan
+
+1. **Tentukan Pertanyaan Penelitian**: Pertanyaan penelitian yang jelas dan spesifik akan membantu Anda memilih jenis dan rancangan penelitian yang paling sesuai untuk menjawab pertanyaan tersebut.
+
+Contoh pertanyaan penelitian: "Apakah intervensi X efektif dalam mengurangi gejala penyakit Hanta pada populasi Z?"
+
+2. **Tentukan Tujuan Penelitian**: Apakah tujuan penelitian Anda untuk menggambarkan suatu fenomena, menguji hubungan antara variabel, atau mengeksplorasi pengalaman individu? Tujuan penelitian akan memandu Anda dalam memilih jenis dan rancangan penelitian yang tepat.
+
+Contoh tujuan penelitian: "Tujuan penelitian ini adalah untuk menguji efektivitas intervensi X dalam mengurangi gejala penyakit Hanta pada populasi Z."
+
+3. **Tentukan Variabel Penelitian**: Identifikasi variabel yang akan Anda teliti dan bagaimana Anda akan mengukurnya. Variabel yang berbeda mungkin memerlukan jenis dan rancangan penelitian yang berbeda.
+
+Contoh variabel penelitian: "Variabel independen: intervensi X; Variabel dependen: gejala penyakit Hanta."
+
+4. **Tentukan Jenis Penelitian**: Berdasarkan pertanyaan penelitian, tujuan, dan variabel yang telah Anda tentukan, pilih jenis penelitian yang paling sesuai, seperti penelitian deskriptif, analitik, atau eksploratif.
+
+Contoh jenis penelitian: "Penelitian ini akan menggunakan **jenis penelitian analitik** untuk menguji hubungan antara intervensi X dan gejala penyakit Hanta." Dengan metode penelitian kuantitatif, peneliti dapat mengukur efektivitas intervensi X secara objektif dan menghasilkan temuan yang dapat digeneralisasi ke populasi yang lebih luas.
+
+5. **Tentukan Rancangan Penelitian**: Pilih rancangan penelitian yang sesuai dengan jenis penelitian yang telah Anda pilih, seperti rancangan deskriptif, analitik, atau eksperimental untuk penelitian kuantitatif, atau rancangan studi kasus, etnografi, grounded theory, fenomenologi, atau naratif untuk penelitian kualitatif.
+
+Contoh rancangan penelitian: "Penelitian ini akan menggunakan **rancangan eksperimental** dengan metode uji klinis acak (randomized controlled trial) untuk menguji efektivitas intervensi X dalam mengurangi gejala penyakit Hanta pada populasi Z."
+
+# Contoh Kasus
+
+## Kasus 1: Implementasi EMR di Rumah Sakit
+
+1. **Pertanyaan Penelitian**. Bagaimana implementasi Electronic Medical Record (EMR) mempengaruhi efisiensi pelayanan kesehatan di rumah sakit?
+
+2. **Tujuan Penelitian**. Tujuan penelitian ini adalah untuk mengeksplorasi dampak implementasi EMR terhadap efisiensi pelayanan kesehatan di rumah sakit.
+
+3. **Variabel Penelitian**. Variabel : Implementasi EMR, Efisiensi pelayanan kesehatan
+
+4. **Jenis Penelitian**. Penelitian ini akan menggunakan **jenis penelitian eksploratif** untuk memahami dampak implementasi EMR terhadap efisiensi pelayanan kesehatan di rumah sakit.
+
+5. **Rancangan Penelitian**. Penelitian ini akan menggunakan **rancangan studi kasus** dengan metode kualitatif untuk mengeksplorasi pengalaman staf rumah sakit dalam mengimplementasikan EMR dan dampaknya terhadap efisiensi pelayanan kesehatan.
+
+## Kasus 2: Pengaruh Klaim Asuransi Kesehatan terhadap Penggunaan Layanan Kesehatan
+
+1. **Pertanyaan Penelitian**. Apakah klaim asuransi kesehatan mempengaruhi penggunaan layanan kesehatan di masyarakat?
+
+2. **Tujuan Penelitian**. Tujuan penelitian ini adalah untuk menguji hubungan antara klaim asuransi kesehatan dan penggunaan layanan kesehatan di masyarakat.
+
+3. **Variabel Penelitian**. Variabel independen: Klaim asuransi kesehatan. Variabel dependen: Penggunaan layanan kesehatan
+
+4. **Jenis Penelitian**. Penelitian ini akan menggunakan **jenis penelitian analitik** untuk menguji hubungan antara klaim asuransi kesehatan dan penggunaan layanan kesehatan di masyarakat.
+
+5. **Rancangan Penelitian**. Penelitian ini akan menggunakan **rancangan studi kasus-kontrol** dengan metode kuantitatif untuk membandingkan penggunaan layanan kesehatan antara kelompok yang memiliki klaim asuransi kesehatan dan kelompok yang tidak memiliki klaim asuransi kesehatan.
+
+## Kasus 3: Pengalaman Pasien dengan Penyakit Kronis
+
+1. **Pertanyaan Penelitian**. Bagaimana pengalaman pasien dengan penyakit kronis dalam mengelola kondisi kesehatan mereka?
+
+2. **Tujuan Penelitian**. Tujuan penelitian ini adalah untuk memahami pengalaman pasien dengan penyakit kronis dalam mengelola kondisi kesehatan mereka.
+
+3. **Variabel Penelitian**. Variabel: Pengalaman pasien, Penyakit kronis
+
+4. **Jenis Penelitian**. Penelitian ini akan menggunakan **jenis penelitian eksploratif** untuk memahami pengalaman pasien dengan penyakit kronis dalam mengelola kondisi kesehatan mereka.
+
+5. **Rancangan Penelitian**. Penelitian ini akan menggunakan **rancangan fenomenologi** dengan metode kualitatif untuk mengeksplorasi pengalaman subjektif pasien dengan penyakit kronis dalam mengelola kondisi kesehatan mereka.
+
+# Praktik Mahasiswa
+Lihat file `research_design_case_study` untuk tugas praktik mahasiswa.
+
+# Diskusi Kelompok
+
+Diskusikan pertanyaan berikut:
+
+1. Mengapa penelitian deskriptif tidak cocok digunakan untuk menguji pengaruh?
+2. Apa risiko jika rancangan penelitian tidak sesuai dengan tujuan penelitian?
+3. Mengapa penelitian eksperimen sulit diterapkan di rumah sakit?
+4. Kapan rancangan longitudinal lebih baik dibanding cross sectional?
+5. Apa dampak kesalahan penentuan variabel terhadap hasil penelitian?
+
+# Kesimpulan
+Memahami jenis dan rancangan penelitian kesehatan sangat penting untuk memastikan bahwa penelitian yang dilakukan valid, reliabel, dan relevan dengan kebutuhan masyarakat. Dengan memilih jenis dan rancangan penelitian yang tepat, peneliti dapat menghasilkan temuan yang dapat diandalkan dan memberikan kontribusi yang signifikan bagi pengembangan ilmu kesehatan dan peningkatan praktik klinis.
+
+# Referensi
+1. Creswell, J. W., & Creswell, J. D. (2017). Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications.
+2. Polit, D. F., & Beck, C. T. (2017). Nursing research: Generating and assessing evidence for nursing practice. Wolters Kluwer.
+3. Greenhalgh, T. (2014). How to read a paper: The basics of evidence-based medicine. John Wiley & Sons.
+
+
+

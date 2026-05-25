@@ -1,0 +1,82 @@
+---
+title: "Praktikum Metodologi Penelitian Kesehatan"
+subtitle: "Jenis dan Rancangan Penelitian Kesehatan  (Studi Kasus)"
+author: "Ferdycov Sitanggang M.P.H"
+date: "2026-05-25"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+fontsize: 12pt
+geometry: margin=3cm
+header-includes:  
+  - \usepackage{setspace}
+  # - \onehalfspacing
+  # - \setlength{\parindent}{1.2em}
+  # - \setlength{\parskip}{0.5em}
+  - \usepackage{tcolorbox}
+  # - \usepackage{float}
+  - \newtcolorbox{defbox}{colback=blue!5!white,colframe=blue!75!black,title=Definisi}
+  - \newtcolorbox{examplebox}{colback=green!5!white,colframe=green!60!black,title=Contoh}
+  - \newtcolorbox{notebox}{colback=yellow!5!white,colframe=yellow!60!black,title=Catatan}
+
+---
+
+# Praktik Mahasiswa
+
+Tentukan Metode dan Jenis dan Rancangan Penelitian yang tepat untuk menjawab pertanyaan penelitian berikut:
+
+| No | Pertanyaan Penelitian | Jenis Penelitian | Rancangan Penelitian |
+|---|--------------------------------------------|------------------|---------------------|
+| **0** | **Contoh: Apakah terdapat hubungan antara tingkat aktivitas fisik dengan kejadian diabetes tipe 2 pada populasi dewasa di Indonesia?** | **Observasional** | **Cross Sectional** |
+| 1 | Apakah terdapat hubungan antara tingkat aktivitas fisik dengan kejadian diabetes tipe 2 pada populasi dewasa di Indonesia? | | |
+| 2 | Bagaimana efektivitas program intervensi gizi dalam menurunkan prevalensi stunting pada anak-anak di daerah pedesaan? | | |
+| 3 | Apakah terdapat perbedaan tingkat kepuasan pasien antara rumah sakit yang menggunakan sistem rekam medis elektronik dengan rumah sakit yang masih menggunakan sistem manual? | | |
+| 4 | Bagaimana pengaruh penggunaan media sosial terhadap kesehatan mental remaja di perkotaan? | | |
+| 5 | Apakah terdapat hubungan antara konsumsi makanan cepat saji dengan risiko obesitas pada remaja di Indonesia? | | |
+| 6 | Bagaimana efektivitas program vaksinasi dalam mencegah penyebaran penyakit menular di komunitas? | | |
+| 7 | Apakah terdapat perbedaan tingkat kejadian penyakit jantung antara perokok dan bukan perokok di kalangan dewasa? | | |
+| 8 | Bagaimana pengaruh faktor lingkungan seperti polusi udara terhadap kejadian asma pada anak-anak di daerah perkotaan? | | |
+| 9 | Apakah terdapat hubungan antara tingkat pendidikan dengan tingkat kesehatan masyarakat di Indonesia? | | |
+| 10 | Bagaimana efektivitas program promosi kesehatan dalam meningkatkan kesadaran masyarakat tentang pentingnya aktivitas fisik untuk mencegah penyakit kronis? | | |
+| 11 | Pengaruh implementasi EMR terhadap lama waktu tunggu pasien di unit rawat jalan Rumah Sakit X | | |
+| 12 | Gambaran mutu pengisian informed consent di ruang rawat inap Rumah Sakit Y | | |
+| 13 | Hubungan antara kelengkapan rekam medis dengan tingkat klaim pending BPJS di Rumah Sakit Z | | |
+| 14 | Perbandingan produktivitas petugas sebelum dan sesudah pelatihan coding ICD-10 di Rumah Sakit A | | |
+| 15 | Evaluasi penerapan I-DRG dalam sistem pembiayaan kesehatan di Indonesia | | |
+
+# Studi Kasus
+Buatlah jenis dan rancangan penelitian yang tepat untuk menjawab pertanyaan penelitian berikut:
+
+## Narasi Masalah 1
+Seorang peneliti ingin mengetahui apakah terdapat hubungan antara konsumsi makanan cepat saji dengan risiko obesitas pada remaja di Indonesia. Peneliti tersebut berencana untuk mengumpulkan data dari 500 remaja berusia 13-18 tahun yang tinggal di berbagai daerah di Indonesia. Data yang akan dikumpulkan meliputi frekuensi konsumsi makanan cepat saji, indeks massa tubuh (BMI), dan faktor-faktor lain seperti tingkat aktivitas fisik dan pola makan secara keseluruhan.
+*Berdasarkan narasi masalah di atas, tentukan jenis dan rancangan penelitian yang tepat untuk menjawab pertanyaan penelitian tersebut. Jelaskan alasan pemilihan jenis dan rancangan penelitian yang Anda pilih.*
+
+## Narasi Masalah 2
+Seorang peneliti ingin mengevaluasi efektivitas program intervensi gizi dalam menurunkan prevalensi stunting pada anak-anak di daerah pedesaan. Peneliti tersebut berencana untuk melakukan intervensi gizi selama 6 bulan pada kelompok anak-anak yang berisiko tinggi mengalami stunting, dan membandingkan hasilnya dengan kelompok kontrol yang tidak menerima intervensi. Data yang akan dikumpulkan meliputi status gizi anak-anak, tingkat pertumbuhan, dan faktor-faktor lain seperti tingkat aktivitas fisik dan pola makan secara keseluruhan.
+*Berdasarkan narasi masalah di atas, tentukan jenis dan rancangan penelitian yang tepat untuk menjawab pertanyaan penelitian tersebut. Jelaskan alasan pemilihan jenis dan rancangan penelitian yang Anda pilih*.
+
+## Narasi Masalah 3
+Seorang peneliti ingin mengkaji penerapan I-DRG (Indonesian Diagnosis Related Group) dalam sistem pembiayaan kesehatan di Indonesia. Peneliti tersebut berencana untuk mengumpulkan data dari rumah sakit yang telah menerapkan I-DRG dan membandingkannya dengan rumah sakit yang masih menggunakan sistem pembiayaan tradisional. Data yang akan dikumpulkan meliputi biaya perawatan, durasi rawat inap, dan tingkat kepuasan pasien.
+*Berdasarkan narasi masalah di atas, tentukan jenis dan rancangan penelitian yang tepat untuk menjawab pertanyaan penelitian tersebut. Jelaskan alasan pemilihan jenis dan rancangan penelitian yang Anda pilih.*
+
+## Narasi Masalah 4
+Rumah Sakit X menerapkan sistem EMR pada unit rawat jalan. Setelah implementasi, rumah sakit ingin mengetahui apakah terdapat perubahan waktu pelayanan pasien dibandingkan sebelum implementasi sistem
+
+1. Termasuk jenis penelitian apa?
+2. Apa rancangan penelitian yang sesuai?
+3. Apa variabel independen dan dependen?
+4. Apakah penelitian memerlukan hipotesis?
+5. Jelaskan alasan pemilihan jenis dan rancangan penelitian yang Anda pilih.
+
+## Narasi Masalah 5
+Rumah sakit menemukan bahwa angka klaim pending BPJS meningkat dalam 6 bulan terakhir. Peneliti ingin mengetahui hubungan antara kelengkapan rekam medis dan tingkat klaim pending.
+
+1. Apa tujuan penelitian tersebut?
+2. Apa jenis penelitian yang sesuai?
+3. Mengapa rancangan cross sectional dapat digunakan?
+4. Apa variabel penelitian?
+
+
+

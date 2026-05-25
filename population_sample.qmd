@@ -1,0 +1,178 @@
+---
+title: "Praktikum Metodologi Penelitian Kesehatan"
+subtitle: "Subyek, Obyek, Populasi, Sampel, dan Teknik Sampling"
+author: "Ferdycov Sitanggang M.P.H"
+date: "2026-05-25"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+fontsize: 12pt
+geometry: margin=3cm
+header-includes:  
+  - \usepackage{setspace}
+  # - \onehalfspacing
+  # - \setlength{\parindent}{1.2em}
+  # - \setlength{\parskip}{0.5em}
+  - \usepackage{tcolorbox}
+  # - \usepackage{float}
+  - \newtcolorbox{defbox}{colback=blue!5!white,colframe=blue!75!black,title=Definisi}
+  - \newtcolorbox{examplebox}{colback=green!5!white,colframe=green!60!black,title=Contoh}
+  - \newtcolorbox{notebox}{colback=yellow!5!white,colframe=yellow!60!black,title=Catatan}
+
+---
+
+# Pendahuluan
+Dalam penelitian kesehatan, pemilihan subyek, obyek, populasi, sampel, dan teknik sampling yang tepat sangat penting untuk memastikan validitas dan reliabilitas hasil penelitian. Subyek penelitian adalah individu atau kelompok yang menjadi fokus utama dalam penelitian, sedangkan obyek penelitian adalah fenomena atau variabel yang ingin dipelajari. Populasi adalah keseluruhan individu atau kelompok yang memiliki karakteristik tertentu yang relevan dengan penelitian, sementara sampel adalah bagian dari populasi yang dipilih untuk mewakili keseluruhan populasi dalam penelitian. Teknik sampling adalah metode yang digunakan untuk memilih sampel dari populasi.
+
+# Subyek dan Obyek Penelitian
+Subyek penelitian adalah individu atau kelompok yang menjadi fokus utama dalam penelitian. Contohnya, dalam penelitian tentang pengaruh diet terhadap kesehatan jantung, subyek penelitian bisa berupa individu yang mengikuti diet tertentu. Obyek penelitian adalah fenomena atau variabel yang ingin dipelajari. Dalam contoh tersebut, obyek penelitiannya adalah kesehatan jantung.
+
+# Populasi dan Sampel
+Populasi adalah keseluruhan individu atau kelompok yang memiliki karakteristik tertentu yang relevan dengan penelitian. Dalam penelitian tentang pengaruh diet terhadap kesehatan jantung, populasi bisa berupa semua individu yang mengikuti diet tertentu di suatu wilayah. Sampel adalah bagian dari populasi yang dipilih untuk mewakili keseluruhan populasi dalam penelitian. Pemilihan sampel yang tepat sangat penting untuk memastikan bahwa hasil penelitian dapat digeneralisasikan ke seluruh populasi.
+
+## Penentuan Ukuran Sampel
+Penentuan ukuran sampel yang tepat sangat penting untuk memastikan bahwa hasil penelitian dapat diandalkan dan memiliki kekuatan statistik yang cukup. Beberapa faktor yang perlu dipertimbangkan dalam menentukan ukuran sampel meliputi:
+
+1. **Tujuan Penelitian**: Apakah penelitian bertujuan untuk eksplorasi, deskripsi, atau pengujian hipotesis? Penelitian eksploratif mungkin memerlukan sampel yang lebih kecil, sementara penelitian yang menguji hipotesis mungkin memerlukan sampel yang lebih besar.
+
+2. **Variabilitas Populasi**: Semakin besar variabilitas dalam populasi, semakin besar ukuran sampel yang diperlukan untuk mendapatkan hasil yang representatif.
+3. **Tingkat Signifikansi dan Daya Statistik**: Peneliti perlu menentukan tingkat signifikansi (alpha) dan daya statistik (power) yang diinginkan untuk penelitian. Semakin tinggi daya statistik yang diinginkan, semakin besar ukuran sampel yang diperlukan.
+
+4. **Sumber Daya dan Waktu**: Peneliti juga perlu mempertimbangkan sumber daya yang tersedia, seperti waktu, biaya, dan tenaga kerja, dalam menentukan ukuran sampel yang realistis.
+
+# Teknik Sampling
+Teknik sampling adalah metode yang digunakan untuk memilih sampel dari populasi. Beberapa teknik sampling yang umum digunakan dalam penelitian kesehatan meliputi:
+
+## Non-Probabilistic Sampling
+
+1. **Convenience Sampling**: Memilih sampel berdasarkan kemudahan akses. Contohnya, peneliti memilih pasien yang sedang dirawat di rumah sakit tempat penelitian dilakukan.
+
+2. **Purposive Sampling**: Memilih sampel berdasarkan tujuan tertentu. Contohnya, peneliti memilih pasien dengan kondisi kesehatan tertentu untuk mempelajari pengaruh diet terhadap kesehatan jantung.
+
+3. **Snowball Sampling**: Memilih sampel dengan meminta partisipan untuk merekomendasikan individu lain yang memenuhi kriteria penelitian. Contohnya, peneliti memulai dengan beberapa pasien yang mengikuti diet tertentu dan meminta mereka untuk merekomendasikan teman atau keluarga yang juga mengikuti diet tersebut.
+
+## Probabilistic Sampling
+
+1. **Simple Random Sampling**: Memilih sampel secara acak dari populasi. Contohnya, peneliti menggunakan komputer untuk memilih sampel secara acak dari daftar pasien yang mengikuti diet tertentu.
+
+2. **Stratified Random Sampling**: Membagi populasi menjadi strata atau kelompok berdasarkan karakteristik tertentu, kemudian memilih sampel secara acak dari setiap strata. Contohnya, peneliti membagi populasi berdasarkan usia dan memilih sampel secara acak dari setiap kelompok usia.
+
+3. **Cluster Sampling**: Membagi populasi menjadi cluster atau kelompok, kemudian memilih beberapa cluster secara acak dan mengikutsertakan semua individu dalam cluster yang dipilih. Contohnya, peneliti membagi populasi berdasarkan wilayah geografis dan memilih beberapa wilayah secara acak untuk penelitian.
+
+4. **Systematic Sampling**: Memilih sampel dengan cara memilih setiap n-th individu dari daftar populasi setelah menentukan titik awal secara acak. Contohnya, peneliti memilih setiap pasien ke-10 dari daftar pasien yang mengikuti diet tertentu.
+
+## Cara Menghitung Ukuran Sampel
+Untuk menghitung ukuran sampel, peneliti dapat menggunakan beberapa metode, tergantung pada jenis penelitian dan variabel yang dipelajari. Salah satu metode yang umum digunakan adalah rumus untuk menghitung ukuran sampel
+
+1. **Rumus Slovin**
+Rumus Slovin digunakan untuk menghitung ukuran sampel ketika populasi diketahui dan peneliti ingin menentukan ukuran sampel dengan tingkat kesalahan tertentu. Rumusnya adalah sebagai berikut:
+$$n = \frac{N}{1 + N(e)^2}$$
+Di mana: \(n\) = jumlah sampel; \(N\) = jumlah populasi; \(e\) = tingkat kesalahan yang diinginkan (biasanya 0.05 untuk tingkat kepercayaan 95%)
+
+Contoh penggunaan rumus Slovin:
+Jika populasi adalah 1000 dan tingkat kesalahan yang diinginkan adalah 0.05, maka ukuran sampel dapat dihitung sebagai berikut:
+$$n = \frac{1000}{1 + 1000(0.05)^2} = \frac{1000}{1 + 1000(0.0025)} = \frac{1000}{1 + 2.5} = \frac{1000}{3.5} \approx 286$$
+Jadi, ukuran sampel yang diperlukan adalah sekitar 286.
+
+2. **Rumus Cochran**
+Rumus Cochran digunakan untuk menghitung ukuran sampel ketika populasi sangat besar atau tidak diketahui. Rumusnya adalah sebagai berikut:
+$$n_0 = \frac{Z^2 \cdot p \cdot (1-p)}{e^2}$$
+Di mana: \(n_0\) = ukuran sampel awal; \(Z\) = nilai Z untuk tingkat kepercayaan yang diinginkan (misalnya, 1.96 untuk 95%); \(p\) = proporsi populasi yang memiliki karakteristik tertentu (jika tidak diketahui, biasanya digunakan 0.5 untuk memaksimalkan ukuran sampel); \(e\) = tingkat kesalahan yang diinginkan (biasanya 0.05 untuk tingkat kepercayaan 95%)
+Jika populasi diketahui, ukuran sampel akhir dapat dihitung dengan rumus berikut:
+$$n = \frac{n_0}{1 + \frac{n_0 - 1}{N}}$$
+Di mana: \(n\) = ukuran sampel akhir; \(n_0\) = ukuran sampel awal; \(N\) = jumlah populasi
+
+Contoh penggunaan rumus Cochran:
+Jika tingkat kepercayaan yang diinginkan adalah 95%, proporsi populasi yang memiliki karakteristik tertentu adalah 0.5, dan tingkat kesalahan yang diinginkan adalah 0.05, maka ukuran sampel awal dapat dihitung sebagai berikut:
+$$n_0 = \frac{(1.96)^2 \cdot 0.5 \cdot (1-0.5)}{(0.05)^2} = \frac{3.8416 \cdot 0.25}{0.0025} = \frac{0.9604}{0.0025} = 384.16$$
+Jika populasi diketahui adalah 1000, maka ukuran sampel akhir dapat dihitung sebagai berikut:
+$$n = \frac{384.16}{1 + \frac{384.16 - 1}{1000}} = \frac{384.16}{1 + 0.38316} = \frac{384.16}{1.38316} \approx 277.7$$
+Jadi, ukuran sampel yang diperlukan adalah sekitar 278.
+
+<!-- 3. **Rumus untuk Perbandingan Dua Proporsi**
+Rumus ini digunakan untuk menghitung ukuran sampel ketika peneliti ingin membandingkan dua proporsi dalam penelitian. Rumusnya adalah sebagai berikut:
+$$n = \frac{(Z_{\alpha/2} + Z_{\beta})^2 \cdot (p_1(1-p_1) + p_2(1-p_2))}{(p_1 - p_2)^2}$$
+Di mana: \(n\) = ukuran sampel per kelompok; \(Z_{\alpha/2}\) = nilai Z untuk tingkat kepercayaan yang diinginkan (misalnya, 1.96 untuk 95%); \(Z_{\beta}\) = nilai Z untuk daya statistik yang diinginkan (misalnya, 0.84 untuk 80%); \(p_1\) = proporsi dalam kelompok pertama; \(p_2\) = proporsi dalam kelompok kedua
+
+Contoh penggunaan rumus untuk perbandingan dua proporsi:
+Jika tingkat kepercayaan yang diinginkan adalah 95%, daya statistik yang diinginkan adalah 80%, proporsi dalam kelompok pertama adalah 0.6, dan proporsi dalam kelompok kedua adalah 0.4, maka ukuran sampel per kelompok dapat dihitung sebagai berikut:
+$$n = \frac{(1.96 + 0.84)^2 \cdot (0.6(1-0.6) + 0.4(1-0.4))}{(0.6 - 0.4)^2} = \frac{(2.8)^2 \cdot (0.24 + 0.24)}{(0.2)^2} = \frac{7.84 \cdot 0.48}{0.04} = \frac{3.7632}{0.04} = 94.08$$
+Jadi, ukuran sampel yang diperlukan per kelompok adalah sekitar 95.
+
+4. **Rumus untuk Perbandingan Dua Rata-rata**
+Rumus ini digunakan untuk menghitung ukuran sampel ketika peneliti ingin membandingkan dua rata-rata dalam penelitian. Rumusnya adalah sebagai berikut:
+$$n = \frac{2(Z_{\alpha/2} + Z_{\beta})^2 \cdot \sigma^2}{(μ_1 - μ_2)^2}$$
+Di mana: \(n\) = ukuran sampel per kelompok; \(Z_{\alpha/2}\) = nilai Z untuk tingkat kepercayaan yang diinginkan (misalnya, 1.96 untuk 95%); \(Z_{\beta}\) = nilai Z untuk daya statistik yang diinginkan (misalnya, 0.84 untuk 80%); \(\sigma^2\) = varians populasi; \(μ_1\) = rata-rata dalam kelompok pertama; \(μ_2\) = rata-rata dalam kelompok kedua
+
+Contoh penggunaan rumus untuk perbandingan dua rata-rata:
+Jika tingkat kepercayaan yang diinginkan adalah 95%, daya statistik yang diinginkan adalah 80%, varians populasi adalah 10, rata-rata dalam kelompok pertama adalah 5, dan rata-rata dalam kelompok kedua adalah 3, maka ukuran sampel per kelompok dapat dihitung sebagai berikut:
+$$n = \frac{2(1.96 + 0.84)^2 \cdot 10}{(5 - 3)^2} = \frac{2(2.8)^2 \cdot 10}{(2)^2} = \frac{2 \cdot 7.84 \cdot 10}{4} = \frac{156.8}{4} = 39.2$$
+Jadi, ukuran sampel yang diperlukan per kelompok adalah sekitar 40. -->
+
+3. **Rumus Lemeshow**
+Rumus Lemeshow digunakan untuk menghitung ukuran sampel dalam penelitian kasus-kontrol. Rumusnya adalah sebagai berikut:
+$$n = \frac{(Z_{\alpha/2} + Z_{\beta})^2 \cdot (p_1(1-p_1) + p_2(1-p_2))}{(p_1 - p_2)^2}$$
+Di mana: \(n\) = ukuran sampel per kelompok; \(Z_{\alpha/2}\) = nilai Z untuk tingkat kepercayaan yang diinginkan (misalnya, 1.96 untuk 95%); \(Z_{\beta}\) = nilai Z untuk daya statistik yang diinginkan (misalnya, 0.84 untuk 80%); \(p_1\) = proporsi kasus dalam kelompok kasus; \(p_2\) = proporsi kasus dalam kelompok kontrol
+
+Contoh penggunaan rumus Lemeshow:
+Jika tingkat kepercayaan yang diinginkan adalah 95%, daya statistik yang diinginkan adalah 80%, proporsi kasus dalam kelompok kasus adalah 0.3, dan proporsi kasus dalam kelompok kontrol adalah 0.1, maka ukuran sampel per kelompok dapat dihitung sebagai berikut:
+$$n = \frac{(1.96 + 0.84)^2 \cdot (0.3(1-0.3) + 0.1(1-0.1))}{(0.3 - 0.1)^2} = \frac{(2.8)^2 \cdot (0.21 + 0.09)}{(0.2)^2}$$
+$$n = \frac{7.84 \cdot 0.3}{0.04} = \frac{2.352}{0.04} = 58.8$$
+Jadi, ukuran sampel yang diperlukan per kelompok adalah sekitar 59.
+
+4. **Rumus Total Sampling**
+Rumus ini digunakan ketika peneliti ingin mengikutsertakan seluruh populasi dalam penelitian. Rumusnya adalah sebagai berikut:
+$$n = N$$
+Di mana: \(n\) = ukuran sampel; \(N\) = jumlah populasi
+
+Contoh penggunaan rumus total sampling:
+Jika populasi adalah 100, maka ukuran sampel yang diperlukan adalah:
+$$n = 100$$
+Jadi, peneliti akan mengikutsertakan seluruh populasi dalam penelitian.
+
+## Latihan Menghitung Ukuran Sampel
+
+1. Seorang peneliti ingin melakukan penelitian tentang pengaruh olahraga terhadap kesehatan mental. Populasi yang ingin diteliti adalah semua mahasiswa di universitas tersebut, yang jumlahnya adalah 5000. Peneliti ingin menggunakan tingkat kesalahan 0.05 dan tingkat kepercayaan 95%. Hitunglah ukuran sampel yang diperlukan menggunakan rumus Slovin.
+
+Jawaban :
+$$n = \frac{5000}{1 + 5000(0.05)^2} = \frac{5000}{1 + 5000(0.0025)} = \frac{5000}{1 + 12.5} = \frac{5000}{13.5} \approx 370.37$$
+Jadi, ukuran sampel yang diperlukan adalah sekitar 370.
+
+2. Contoh kasus-kontrol: Seorang peneliti ingin melakukan penelitian kasus-kontrol untuk mempelajari hubungan antara konsumsi alkohol dan risiko kanker hati. Peneliti ingin menggunakan tingkat kesalahan 0.05, daya statistik 80%, proporsi konsumsi alkohol dalam kelompok kasus adalah 0.3, dan proporsi konsumsi alkohol dalam kelompok kontrol adalah 0.1. Hitunglah ukuran sampel yang diperlukan per kelompok menggunakan rumus Lemeshow.
+
+Jawaban :
+$$n = \frac{(1.96 + 0.84)^2 \cdot (0.3(1-0.3) + 0.1(1-0.1))}{(0.3 - 0.1)^2} = \frac{(2.8)^2 \cdot (0.21 + 0.09)}{(0.2)^2}$$
+$$n = \frac{7.84 \cdot 0.3}{0.04} = \frac{2.352}{0.04} = 58.8$$
+Jadi, ukuran sampel yang diperlukan per kelompok adalah sekitar 59.
+
+3. Seorang peneliti ingin melakukan penelitian tentang prevalensi diabetes di suatu kota dengan populasi 10000. Peneliti ingin menggunakan tingkat kesalahan 0.05 dan tingkat kepercayaan 95%. Hitunglah ukuran sampel yang diperlukan menggunakan rumus Cochran.
+
+Jawaban :
+$$n_0 = \frac{(1.96)^2 \cdot 0.5 \cdot (1-0.5)}{(0.05)^2} = \frac{3.8416 \cdot 0.25}{0.0025} = \frac{0.9604}{0.0025} = 384.16$$
+Jika populasi diketahui adalah 10000, maka ukuran sampel akhir dapat dihitung sebagai berikut:
+$$n = \frac{384.16}{1 + \frac{384.16 - 1}{10000}} = \frac{384.16}{1 + 0.038416} = \frac{384.16}{1.038416} \approx 369.9$$
+Jadi, ukuran sampel yang diperlukan adalah sekitar 370.
+
+# Praktik Mahasiswa
+
+1. Seorang peneliti ingin melakukan penelitian tentang pengaruh diet terhadap kesehatan jantung. Populasi yang ingin diteliti adalah semua individu yang mengikuti diet tertentu di suatu wilayah, yang jumlahnya adalah 2000. Peneliti ingin menggunakan tingkat kesalahan 0.05 dan tingkat kepercayaan 95%. Hitunglah ukuran sampel yang diperlukan menggunakan rumus Slovin.
+
+2. Contoh kasus-kontrol: Seorang peneliti ingin melakukan penelitian kasus-kontrol untuk mempelajari hubungan antara merokok dan risiko kanker paru-paru. Peneliti ingin menggunakan tingkat kesalahan 0.05, daya statistik 80%, proporsi merokok dalam kelompok kasus adalah 0.4, dan proporsi merokok dalam kelompok kontrol adalah 0.2. Hitunglah ukuran sampel yang diperlukan per kelompok menggunakan rumus Lemeshow.
+
+3. Seorang peneliti ingin melakukan penelitian tentang prevalensi hipertensi di suatu kota dengan populasi 15000. Peneliti ingin menggunakan tingkat kesalahan 0.05 dan tingkat kepercayaan 95%. Hitunglah ukuran sampel yang diperlukan menggunakan rumus Cochran.
+
+# Diskusi Kelompok
+
+1. Diskusikan kelebihan dan kekurangan masing-masing teknik sampling yang telah dipelajari. Berikan contoh situasi penelitian yang sesuai untuk masing-masing teknik sampling.
+
+2. Diskusikan faktor-faktor yang perlu dipertimbangkan dalam menentukan ukuran sampel yang tepat untuk penelitian kesehatan. Bagaimana faktor-faktor tersebut dapat mempengaruhi hasil penelitian?
+
+3. Diskusikan pentingnya pemilihan subyek, obyek, populasi, dan teknik sampling yang tepat dalam penelitian kesehatan. Bagaimana pemilihan yang tepat dapat meningkatkan validitas dan reliabilitas hasil penelitian?
+
+# Referensi
+1. Creswell, J. W., & Creswell, J. D. (2017). Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications.
+2. Polit, D. F., & Beck, C. T. (2017). Nursing research: Generating and assessing evidence for nursing practice. Wolters Kluwer Health.
+3. Lemeshow, S., Hosmer, D. W., Klar, J., & Lwanga, S. K. (1990). Adequacy of sample size in health studies. John Wiley & Sons.
+4. Cochran, W. G. (1977). Sampling techniques (3rd ed.). John Wiley & Sons.
